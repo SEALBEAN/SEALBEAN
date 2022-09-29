@@ -66,19 +66,19 @@
 
 ## 📫 How To Reach Me
 <div align="center">
-  <a href="#" >
+  <a href="xuhet2017@gmail.com" >
     <img align="center" width="40px" src="https://img.icons8.com/color/344/gmail--v1.png" />
   </a> &nbsp; 
-  <a href="#" >
+  <a href="[#](https://www.facebook.com/Mr.DauPhong/)" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/facebook-new.png" />
   </a> &nbsp; 
-  <a href="#" >
-    <img align="center" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />
+  <a href="[#](https://www.hackerrank.com/SEALBEAN)" >
+    <img align="center" width="40px" src="[https://img.icons8.com/fluency/344/instagram-new.png](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png)" />
   </a> &nbsp;
-  <a href="#" >
+  <a href="[#](https://github.com/SEALBEAN/)" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/github.png" />
   </a> &nbsp;
-  <a href="#" >
+  <a href="[#](https://www.linkedin.com/in/ng%C3%B4-quang-9a1376214/)" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" />
   </a> &nbsp; 
 </div>
