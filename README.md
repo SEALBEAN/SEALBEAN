@@ -23,8 +23,6 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Microsoft SQL Server-F8F8FF?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server" title="Microsoft SQL   Server" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Swagger-F8F8FF?logo=Swagger&logoColor=85EA2D" alt="Swagger" title="Swagger" height="25" /></span>
-  &nbsp;
 <!-- FRONT-END -->
   <span><img src="https://img.shields.io/badge/HTML5-F8F8FF?logo=HTML5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
   &nbsp;
@@ -46,8 +44,6 @@
   <span><img src="https://img.shields.io/badge/IntelliJ IDEA-F8F8FF?logo=IntelliJ IDEA&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" />   </span>
 <!-- FRAMEWORK -->
   <span><img src="https://img.shields.io/badge/.NET-F8F8FF?logo=.NET&logoColor=512BD4" alt=".NET logo" title=".NET" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/React-F8F8FF?logo=React&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Spring Boot-F8F8FF?logo=Spring Boot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
   &nbsp;
